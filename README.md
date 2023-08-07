@@ -5,8 +5,20 @@
 <img src=https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif >
 </div>
 
-<h3 align="left">Skills of Languages and Tools:</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/siti-yuanda-putri-1937bb165" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siti-yuanda-putri-1937bb165" height="30" width="40" />
+</a>
+<a href="https://medium.com/@sitiyuanda" target="blank">
+  <img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg  alt="@sitiyuanda" height="30" width="40" />
+</a>
+</p>
+
 <br/>
+<br/>
+
+<h3 align="left">Skills of Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -49,13 +61,15 @@
 <br/>
 <br/>
 
-<h3 align="left">Connect with me:</h3>
-<br/>
+
+<h3 align="left">My Medium post:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/siti-yuanda-putri-1937bb165" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siti-yuanda-putri-1937bb165" height="30" width="40" />
-</a>
-<a href="https://medium.com/@sitiyuanda" target="blank">
-  <img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg  alt="@sitiyuanda" height="30" width="40" />
-</a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sitiyuanda/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sitiyuanda/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sitiyuanda/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sitiyuanda/1" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sitiyuanda/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sitiyuanda/3" alt="Recent Article 0"> 
 </p>
+
+

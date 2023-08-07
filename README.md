@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuanda</h1>
 <h3 align="center">I am a newcomer to the world of web and development. I've graduated from Web & Development Bootcamp from Purwadhika (August 2023) and also UI/UX Research & Design Bootcamp organized by Binar Academy (August 2022).</h3>
 
-<img align=“center” alt=“that girl is coding” src=“https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif”
+<img align=“center” alt=“that girl is coding” src=“https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif”/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

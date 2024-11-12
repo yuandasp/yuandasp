@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuanda</h1>
-<h3 align="center">I am a newcomer to the world of web and development. I've graduated from Web & Development Bootcamp from Purwadhika (August 2023) and also UI/UX Research & Design Bootcamp organized by Binar Academy (August 2022).</h3>
+<h3 align="center">I am a Fullstack Engineer > 1 year</h3>
 <div align="center">
   
 <img src=https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif >

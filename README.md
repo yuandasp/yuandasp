@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuanda</h1>
-<h3 align="center">I am a Fullstack Engineer of +2 years of experience</h3>
+<h3 align="center">I am a Fullstack Engineer with +2 years of experience</h3>
 <div align="center">
   
 <img src=https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif >
